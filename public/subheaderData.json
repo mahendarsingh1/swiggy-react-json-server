@@ -15,12 +15,11 @@
         {
             "heading" : "Closed",
             "paragraph" : "For delivery" ,
-            "classes" : "description-delivery border-r p-r-1" 
+            "classes" : "border-r p-r-1" 
         },
         {
             "heading" : "₹200", 
-            "paragraph" : "Cost for two",
-            "classes" : "description-cost" 
+            "paragraph" : "Cost for two"
         }
     ],
     "offers" : [
