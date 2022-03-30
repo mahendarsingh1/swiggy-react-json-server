@@ -10,7 +10,7 @@
             "heading" : "3.9",
             "paragraph" : "100+ Ratings",
             "img" : "star.svg",
-            "classes" : "description-rating  border-r p-r-1"   
+            "classes" : "border-r p-r-1"   
         },
         {
             "heading" : "Closed",
